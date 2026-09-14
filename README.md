@@ -49,32 +49,49 @@ Estou sempre buscando aprender novas tecnologias, colocar meus conhecimentos em 
 <div align="center">
 
 <a href="https://github.com/luiseduardo493333-sys/ATIVIDADE-CRUD-SLQ-LITE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=luiseduardo493333-sys&repo=ATIVIDADE-CRUD-SLQ-LITE&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/🐍%20CRUD%20SQLite-Python-3776AB?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/luiseduardo493333-sys/Projeto-moedas-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=luiseduardo493333-sys&repo=Projeto-moedas-api&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/💰%20Projeto%20Moedas-API-3776AB?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/luiseduardo493333-sys/Dragonball-API">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=luiseduardo493333-sys&repo=Dragonball-API&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/🐉%20Dragon%20Ball-API-3776AB?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/luiseduardo493333-sys/projeto-filmes--api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=luiseduardo493333-sys&repo=projeto-filmes--api&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/🎬%20Projeto%20Filmes-API-3776AB?style=for-the-badge" />
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🚀 Projeto | 💻 Tecnologia | 🔗 |
+|:---:|:---:|:---:|
+| 🗄️ CRUD SQLite | Python / SQLite | [Ver projeto](https://github.com/luiseduardo493333-sys/ATIVIDADE-CRUD-SLQ-LITE) |
+| 💰 API de Moedas | Python / API | [Ver projeto](https://github.com/luiseduardo493333-sys/Projeto-moedas-api) |
+| 🐉 Dragon Ball API | Python / API | [Ver projeto](https://github.com/luiseduardo493333-sys/Dragonball-API) |
+| 🎬 Filmes API | Python / API | [Ver projeto](https://github.com/luiseduardo493333-sys/projeto-filmes--api) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=luiseduardo493333-sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<a href="https://github.com/luiseduardo493333-sys">
+  <img src="https://img.shields.io/badge/GitHub-luiseduardo493333--sys-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseduardo493333-sys&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/luiseduardo493333-sys?tab=repositories">
+  <img src="https://img.shields.io/badge/📁%20Meus%20repositórios-00C6FF?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -87,7 +104,6 @@ Estou sempre buscando aprender novas tecnologias, colocar meus conhecimentos em 
 <img src="https://streak-stats.demolab.com?user=luiseduardo493333-sys&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## 📫 Contato
