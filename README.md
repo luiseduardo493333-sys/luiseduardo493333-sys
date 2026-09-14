@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Luis+Eduardo+%F0%9F%91%8B;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o+%F0%9F%9A%80;Bem-vindo+ao+meu+perfil+%F0%9F%92%BB" />
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=luiseduardo493333-sys&style=for-the-badge&color=00C6FF" alt="Visitor count"/>
+
 </div>
 
 ---
@@ -27,6 +31,15 @@ Estou sempre buscando aprender novas tecnologias, colocar meus conhecimentos em 
 
 ---
 
+## 🎯 No momento
+
+- 🔭 Trabalhando em projetos de APIs e integração com bancos de dados
+- 🌱 Aprofundando conhecimentos em **Python** e **SQL**
+- 👯 Aberto a colaborar em projetos open source
+- 💬 Pergunte-me sobre Python, APIs REST e SQLite
+
+---
+
 ## 🛠️ Tecnologias
 
 <div align="center">
@@ -41,9 +54,8 @@ Estou sempre buscando aprender novas tecnologias, colocar meus conhecimentos em 
 
 </div>
 
-> 💡 **Observação:** depois que você me mandar um print dos seus repositórios, posso substituir essa lista pelas **linguagens que você realmente utiliza**.
-
 ---
+
 ## 🚀 Projetos em destaque
 
 <div align="center">
@@ -95,6 +107,15 @@ Estou sempre buscando aprender novas tecnologias, colocar meus conhecimentos em 
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=luiseduardo493333-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseduardo493333-sys&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
 ---
 
 ## 🔥 Atividade no GitHub
@@ -104,6 +125,7 @@ Estou sempre buscando aprender novas tecnologias, colocar meus conhecimentos em 
 <img src="https://streak-stats.demolab.com?user=luiseduardo493333-sys&theme=tokyonight&hide_border=true" />
 
 </div>
+
 ---
 
 ## 📫 Contato
@@ -116,10 +138,6 @@ Estou sempre buscando aprender novas tecnologias, colocar meus conhecimentos em 
 
 <a href="https://instagram.com/ls.santoxs">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
