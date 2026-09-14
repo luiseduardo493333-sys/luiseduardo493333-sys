@@ -44,13 +44,24 @@ Estou sempre buscando aprender novas tecnologias, colocar meus conhecimentos em 
 > 💡 **Observação:** depois que você me mandar um print dos seus repositórios, posso substituir essa lista pelas **linguagens que você realmente utiliza**.
 
 ---
-
 ## 🚀 Projetos em destaque
 
 <div align="center">
 
-<a href="https://github.com/luiseduardo493333-sys">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=luiseduardo493333-sys&repo=SEU_REPOSITORIO&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/luiseduardo493333-sys/ATIVIDADE-CRUD-SLQ-LITE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luiseduardo493333-sys&repo=ATIVIDADE-CRUD-SLQ-LITE&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/luiseduardo493333-sys/Projeto-moedas-api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luiseduardo493333-sys&repo=Projeto-moedas-api&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/luiseduardo493333-sys/Dragonball-API">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luiseduardo493333-sys&repo=Dragonball-API&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/luiseduardo493333-sys/projeto-filmes--api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=luiseduardo493333-sys&repo=projeto-filmes--api&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -61,15 +72,15 @@ Estou sempre buscando aprender novas tecnologias, colocar meus conhecimentos em 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=luiseduardo493333-sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=luiseduardo493333-sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseduardo493333-sys&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiseduardo493333-sys&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Minha atividade
+## 🔥 Atividade no GitHub
 
 <div align="center">
 
